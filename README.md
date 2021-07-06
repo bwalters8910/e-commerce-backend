@@ -16,7 +16,12 @@ Here is the link to the Github repository where the repo can be cloned (https://
 
 ## Usage
 
-Video Walkthrough Link
+PART I - VIDEO WALKTHROUGH
+https://drive.google.com/file/d/1enlurzvvg6SuHij3YydFZDUcBCxpZqOa/view
+PART II - VIDEO WALKTHROUGH
+https://drive.google.com/file/d/15OanlU_7cbE2LJMt_CzseP55ty3gFvCr/view
+PART III - VIDEO WALKTHROUGH
+https://drive.google.com/file/d/1ZtWf9ykCaK374ytUTpbvQyUvI3ytAFzj/view
 
 ## License
 
